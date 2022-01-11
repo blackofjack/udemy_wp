@@ -16,4 +16,4 @@ add_action( 'after_setup_theme', 'ju_setup_theme') ;
 
 // Shortcodes 
 
-//commit 
+//commit fdfdf
